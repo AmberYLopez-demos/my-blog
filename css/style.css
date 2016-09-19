@@ -109,6 +109,9 @@ nav .logo a {
     max-width: 1080px;
     margin:0 auto;
 }
+.gray-section .article-preview > div{
+    float: left;
+}
 .gray-section .article-preview .img-section{
     width:650px;
     height:340px;
@@ -119,10 +122,8 @@ nav .logo a {
     width:45%;
     background-position: -150px -300px;
 }
-.article-preview > div{
-    float: left;
-}
+
 .gray-section .text-section{
-    width:55%;
+    width:45%;
 }
 
