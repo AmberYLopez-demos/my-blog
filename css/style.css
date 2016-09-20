@@ -124,6 +124,11 @@ nav .logo a {
 }
 
 .gray-section .text-section{
-    width:45%;
+    width:636px;
+    height: 210px;
+    text-align: center;
+    padding-top: 10%;
+    background-color: darkslategray;
+    color:#fff;
 }
 
