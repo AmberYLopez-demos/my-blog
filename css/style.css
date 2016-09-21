@@ -118,17 +118,34 @@ nav .logo a {
     background: url("../images/content.jpg")-0px -400px no-repeat;
     overflow: hidden;
 }
+.gray-section .article-preview .two{
+    width:650px;
+    height:340px;
+    background: url("../images/content.jpg")-0px -750px no-repeat;
+    overflow: hidden;
+    /*color: #20b2aa;*/
+}
+
 .gray-section .article-preview .img-section .img{
     width:45%;
     background-position: -150px -300px;
 }
 
-.gray-section .text-section{
+.gray-section .text-section {
     width:636px;
-    height: 210px;
+    height: 211px;
     text-align: center;
     padding-top: 10%;
     background-color: darkslategray;
     color:#fff;
 }
+
+.gray-section .article-preview .three{
+    width:650px;
+    height:340px;
+    background: url("../images/content.jpg")-0px -1100px no-repeat;
+    overflow: hidden;
+}
+
+
 
