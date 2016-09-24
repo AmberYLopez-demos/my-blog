@@ -131,21 +131,23 @@ nav .logo a {
     background-position: -150px -300px;
 }
 
-.gray-section .text-section {
-    width:636px;
-    height: 211px;
-    text-align: center;
-    padding-top: 10%;
-    background-color: darkslategray;
-    color:#fff;
-}
-
 .gray-section .article-preview .three{
     width:650px;
-    height:340px;
+    height:348px;
     background: url("../images/content.jpg")-0px -1100px no-repeat;
     overflow: hidden;
 }
+
+.gray-section .article-preview .text-section {
+    width:626px;
+    height: 215px;
+    text-align: center;
+    padding-top: 10%;
+    background-color: darkslategray;
+    float: right;
+    color:#fff;
+}
+
 
 
 
